@@ -2,7 +2,7 @@
  * Author: gavin.wang
  * Date: 2024-05-15 16:16:28
  * LastEditors: gavin.wang
- * LastEditTime: 2024-05-16 14:10:54
+ * LastEditTime: 2024-05-16 15:04:02
  * FilePath: /test/src/layout/BaseLayout/index.jsx
  * Description:
  */
@@ -59,7 +59,7 @@ const BaseLayout = () => {
             borderRadius: borderRadiusLG,
             color: 'white',
           }}>
-          Content
+          Content123
         </div>
       </Content>
       <Footer
